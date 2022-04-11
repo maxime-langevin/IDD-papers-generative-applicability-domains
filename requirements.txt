@@ -2,7 +2,6 @@ guacamol==0.5.3
 cython==0.29
 nltk==3.4.5
 flake8==3.5.0
-git+https://github.com/molecularsets/moses.git@master#egg=moses
 pandas==1.0.3
 tqdm==4.45.0
 nltk==3.4.5
